@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"><a href="https://api-platform.com"><img src="https://api-platform.com/logo-250x250.png" alt="API Platform"></a></h1>
 
 API Platform is a next-generation web framework designed to easily create API-first projects without compromising extensibility
@@ -51,3 +52,7 @@ It means that you can:
 ## Credits
 
 Created by [Kévin Dunglas](https://dunglas.fr). Commercial support available at [Les-Tilleuls.coop](https://les-tilleuls.coop).
+=======
+# test-story-apiplatform
+Projet de test d'Api Plateform. Installation et utilisation via Docker, création d'entité, ajout de données à un objet avant son enregistrement.
+>>>>>>> 1c938494a7657bf2e0ede21fe4ab1cc9b08c91f8
